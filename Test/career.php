@@ -98,7 +98,7 @@ if($i%3==0){?>
     <h1>Job Application Form</h1>
 
     <label for="psw"><b>Name</b></label>
-    <input type="text" placeholder="Enter Password" name="name" required>
+    <input type="text" placeholder="full name" name="name" required>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" required>
@@ -110,13 +110,13 @@ if($i%3==0){?>
 
     
     <label for="psw"><b>Mobile Number</b></label>
-    <input type="text" placeholder="Enter Password" name="mobileNo" required>
+    <input type="text" placeholder="MobileNumber" name="mobileNo" required>
 
     
 
 
     <label for="psw"><b>Place</b></label>
-    <input type="text" placeholder="Enter Password" name="place" required>
+    <input type="text" placeholder="Place" name="place" required>
 
     <button type="submit" class="btn" onClick="alert('succesfully applied')" name="apply">Apply</button>
     <button type="button" class="btn cancel" onclick="closeForm()">Close</button>

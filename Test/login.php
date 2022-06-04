@@ -26,8 +26,8 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
 
 
 if(empty($err))
-{
-    $sql = "SELECT id, name, password FROM registered WHERE name = ?";
+{  //password
+    $sql = "SELECT id, name, Password FROM registered WHERE name = ?";
     $stmt = mysqli_prepare($conn, $sql);
     mysqli_stmt_bind_param($stmt, "s", $param_username);
     $param_username = $username;
@@ -54,7 +54,7 @@ if(empty($err))
                             
                         }
                         else{
-                          $err = "Incorrect Password";
+                          $err = $password;
                         }
                     }
 

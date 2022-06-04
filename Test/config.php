@@ -3,7 +3,7 @@
 $server='localhost';
 $password='';
 $username='root';
-$database='jobs';
+$database='new_jobs';
 
 
 // Create connection
@@ -14,7 +14,7 @@ if (!$conn) {
   die("Connection failed: " . mysqli_connect_error());
 }
 $sql="ALTER TABLE jobs AUTO_INCREMENT = 1";
-mysqli_query($conn, $sql)
+//mysqli_query($conn, $sql)
 // $name = $_POST['nm'];
 // $email = $_POST['em'];
 // $mobileNo = $_POST['num'];
