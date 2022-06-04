@@ -12,8 +12,8 @@ A website where the administrator can publish jobs and all users can view them a
 
 <br>
 <p>
-    <img src="Display\JobPortal.png" width="245" style="margin:20px">&emsp;
-    <img src="Display\JobPortal2.png" width="245" style="margin:20px">&emsp;
+    <img src="Display\JobPortal.png" width="500" style="margin:20px">&emsp;
+    <img src="Display\JobPortal2.png" width="500" style="margin:20px">&emsp;
 </p>
 <br>
 
@@ -21,8 +21,8 @@ A website where the administrator can publish jobs and all users can view them a
 
 <br>
 <p>
-    <img src="Display\ApplicationForm.png" width="245" style="margin:20px">&emsp;
-    <img src="Display\ApplicationForm2.png" width="245" style="margin:20px">&emsp;
+    <img src="Display\ApplicationForm.png" width="500" style="margin:20px">&emsp;
+    <img src="Display\ApplicationForm2.png" width="500" style="margin:20px">&emsp;
 </p>
 <br>
 
@@ -30,8 +30,8 @@ A website where the administrator can publish jobs and all users can view them a
 
 <br>
 <p>
-    <img src="Display\LoginPage.png" width="245" style="margin:20px">&emsp;
-    <img src="Display\RegistrationPage.png" width="245" style="margin:20px">&emsp;
+    <img src="Display\LoginPage.png" width="500" style="margin:20px">&emsp;
+    <img src="Display\RegistrationPage.png" width="500" style="margin:20px">&emsp;
 </p>
 <br>
 
@@ -40,9 +40,9 @@ A website where the administrator can publish jobs and all users can view them a
 <br>
 
 <p>
-    <img src="Display\AdminPortal.png" width="245" style="margin:20px">
-    <img src="Display\PostJob.png" width="245" style="margin:20px">&emsp;
-    <img src="Display\AdminPortal2.png" width="245" style="margin:20px">&emsp;
+    <img src="Display\AdminPortal.png" width="500" style="margin:20px">
+    <img src="Display\PostJob.png" width="500" style="margin:20px">&emsp;
+    <img src="Display\AdminPortal2.png" width="500" style="margin:20px">&emsp;
 </p>
 
 <br>
@@ -54,8 +54,8 @@ A website where the administrator can publish jobs and all users can view them a
 <br>
 
 <p>
-    <img src="Display\DashBoard.png" width="245" style="margin:20px">
-    <img src="Display\JobPortal3.png" width="245" style="margin:20px">
+    <img src="Display\DashBoard.png" width="500" style="margin:20px">
+    <img src="Display\JobPortal3.png" width="500" style="margin:20px">
 </p>
 
 <br>
